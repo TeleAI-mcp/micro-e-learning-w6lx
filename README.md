@@ -1,2 +1,3 @@
-# micro-e-learning-w6lx
-Automated issue comment bot repository
+# Micro E Learning W6Lx
+
+Automated issue comment bot repository.
